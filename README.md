@@ -1,4 +1,4 @@
-# Auteur : Jacqueline VALLIER
+# Prposé par : OpenClassroom 
 
 
 ## Enoncé du Projet : Créez un blog pour un écrivain.
@@ -36,5 +36,6 @@ histoire en HTML (on comprend qu'il n'ait pas très envie !).
 Le code sera construit sur une architecture MVC. Vous développerez autant que possible en orienté objet. 
 Au minimum, le modèle doit être construit sous forme d'objet.
 
+### Réalisé par : Jacqueline VALLIER
 
 
