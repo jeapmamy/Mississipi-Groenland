@@ -1,4 +1,4 @@
-# Prposé par : OpenClassroom 
+# Proposé par : OpenClassroom 
 
 
 ## Enoncé du Projet : Créez un blog pour un écrivain.
