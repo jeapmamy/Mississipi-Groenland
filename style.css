@@ -1,0 +1,53 @@
+
+/* Styles de base */
+
+body {
+	font-family: 'Bitter', serif;
+	background-color: #eef;
+	position: relative;
+}
+
+.fondblanc {
+	background-color: white;
+}
+
+.formatage {
+	height: 500px;
+	padding: 50px;
+	overflow-y: scroll;
+	border: solid silver 1px;
+}
+
+.pagination {
+	position: center;
+}
+
+#titreBlog {
+    margin-top: 70px;
+}
+
+#titreBlog, #piedBlog {
+    text-align: center;
+}
+
+.titreBillet, #titreReponses, #titreFormulaire {
+	color: green;
+}
+
+.titreGestion, #titreConnexion, #titreChapitre {
+	color: green;
+	text-align: center;
+}
+
+
+
+/* Footer */
+footer {
+	margin-top: 20px;
+	padding: 10px 0 20px 0;
+	widht: auto;
+	height: auto;
+	background-color: black;
+	color: white;
+}
+
