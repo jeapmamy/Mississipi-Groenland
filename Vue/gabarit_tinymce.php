@@ -41,12 +41,13 @@
 						  <span class="icon-bar"></span>
 						  <span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="#page-top">Blog de Jean Forteroche</a>
+						<a class="navbar-brand" href="index.php">Blog de Jean Forteroche</a>
 					  </div>
 					  <div class="collapse navbar-collapse">
 						<ul class="nav navbar-nav">
-						  <li class="hidden"><a href="#page-top"></a></li>
+						  <li class="hidden"><a href="index.php"></a></li>
 						  <li><a href="index.php">Les Chapitres</a></li>
+						  <li><a href="index.php?action=auteur">L'Auteur</a></li>
 						  <li><a href="index.php?action=admin">Administration</a></li>
 						</ul>
 					  </div>
@@ -71,7 +72,7 @@
             <footer id="piedBlog">
 			  
 				<div>
-					Blog réalisé avec PHP, HTML5 et CSS. | 
+					Jean Forteroche 2017. | 
 					<a href="index.php?action=deconnexion"> Deconnexion</a>
 				</div>
 			  
