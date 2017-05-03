@@ -2,7 +2,6 @@
 
 require_once 'Controleur/ControleurAccueil.php';
 require_once 'Controleur/ControleurBillet.php';
-//require_once 'Controleur/ControleurAuteur.php';
 require_once 'Controleur/ControleurAdmin.php';
 require_once 'Controleur/ControleurGestion.php';
 require_once 'Controleur/ControleurCommentaire.php';
@@ -13,7 +12,6 @@ class Routeur {
 
 	private $ctrlAccueil;
 	private $ctrlBillet;
-	//private $ctrlAuteur;
 	private $ctrlAdmin;
 	private $ctrlGestion;
 	private $ctrlCommentaire;
@@ -21,7 +19,6 @@ class Routeur {
 	public function __construct() {
 		$this->ctrlAccueil = new ControleurAccueil();
 		$this->ctrlBillet = new ControleurBillet();
-		//$this->ctrlAuteur = new ControleurAuteur();
 		$this->ctrlAdmin = new ControleurAdmin();
 		$this->ctrlGestion = new ControleurGestion();
 		$this->ctrlCommentaire = new ControleurCommentaire();
