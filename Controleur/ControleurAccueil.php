@@ -20,5 +20,11 @@ class ControleurAccueil {
 		$vue = new Vue("Accueil");
 		$vue->generer(array('nombreDePages' => $nombreDePages, 'pageActuelle' => $pageActuelle, 'billets' => $billets));
 	}
+	
+	// Affiche la présentation du blog et de l'auteur
+	public function auteur() {
+		$vue = new Vue("Auteur");
+		$vue->generer(array());
+	}
 }
 
