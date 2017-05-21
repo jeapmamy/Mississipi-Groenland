@@ -36,7 +36,9 @@
 						  <li class="hidden"><a href="index.php"></a></li>
 						  <li><a href="index.php">Les Chapitres</a></li>
 						  <li><a href="index.php?action=auteur">L'Auteur</a></li>
-						  <li><a href="index.php?action=admin">Administration</a></li>
+						</ul>
+						<ul class="nav navbar-nav navbar-right">
+						  <li><a href="index.php?action=admin"><span class="glyphicon glyphicon-cog"></span>Administration</a></li>
 						</ul>
 					  </div>
 					</div>
